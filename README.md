@@ -2,7 +2,7 @@
 
 [![N|Solid](https://i.blogs.es/a4a869/webpack/original.png)](https://webpack.github.io/)
 
-Just a basic excersice to get started with webpack.
+Just a basic exercise to get started with webpack.
 Try to do the following: 
 
   - Get webpack (dev server) up and running, with the dist/index.html as the root.
