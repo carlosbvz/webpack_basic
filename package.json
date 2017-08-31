@@ -1,0 +1,12 @@
+{
+  "name": "webpack_basic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/carlosbvz/webpack_basic.git",
+  "author": "Carlos Benavides V <carlos.benavides@digitaslbi.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.5.5",
+    "webpack-dev-server": "^2.7.1"
+  }
+}

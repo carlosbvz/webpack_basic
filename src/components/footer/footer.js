@@ -1,4 +1,4 @@
-export class footer {
+export class Footer {
     constructor() {
         console.log('footer inited');
     }

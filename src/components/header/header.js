@@ -1,4 +1,4 @@
-export class header {
+export class Header {
     constructor() {
         console.log('header inited');
     }
