@@ -16,5 +16,5 @@ You can check what's the current status here: [es6 classes Supported browsers](h
 So, let's add a feature to our webpack project to transpile es6 to es5. 
 Try to do the following:
 
-- [ ]  Add babel-loader and babel-preset-es2015
+- [ ] Add babel-core, babel-loader and babel-preset-es2015
 - [ ] Modify the webpack.config.js file to make the es6 .js files transpile to es5 into the dist/assets/bundle.js final asset.
