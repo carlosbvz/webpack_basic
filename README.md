@@ -4,9 +4,9 @@
 
 This is what we have completed so far:
 
-  - Get a local copy of this repo.
-  - Get webpack (dev server) up and running, with the dist/index.html as the root.
-  - Get all .js files for the listed components (footer and header) inside the 'scr' folder into the single 'dist/assests/bundle.js' file.
+  - [x] Get a local copy of this repo.
+  - [x] Get webpack (dev server) up and running, with the dist/index.html as the root.
+  - [x] Get all .js files for the listed components (footer and header) inside the 'scr' folder into the single 'dist/assests/bundle.js' file.
 
   Now, what about using some loaders?
 
