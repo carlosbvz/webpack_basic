@@ -3,7 +3,7 @@ const webpack = require ('webpack');
 const config = {
     context: __dirname + '/src',
     entry: {
-        app: './index.js'
+        app: './main.js'
     },
     output: {
         path: __dirname + '/dist',
